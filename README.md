@@ -2,5 +2,5 @@
 
 ## Screeenshots
 ![Front Page](https://github.com/khantkhantnyeinsoe/BookCRUDRealm/blob/master/menu.png "Front Page")
-![Insert](https://github.com/khantkhantnyeinsoe/BookCRUDRealm/blob/master/insert.png"Insert")
-![Update](https://github.com/khantkhantnyeinsoe/BookCRUDRealm/blob/master/update.png "Update")
+![Insert](https://github.com/khantkhantnyeinsoe/BookCRUDRealm/blob/master/insert.png "Insert")
+![Update](https://github.com/khantkhantnyeinsoe/BookCRUDRealm/blob/master/edit.png "Update")
