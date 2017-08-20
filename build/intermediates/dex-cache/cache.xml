@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/khant/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_d814721799376272b1506d34f2ba8e94c2c82b36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/khant/.android/build-cache/625a14ea9bc0234087a7542533248aa9c2c6c496/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/pre-dexed/debug/classes_013b0cdcf15df600f17f037e9c5edc40c34b6133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/khant/.android/build-cache/3bd757e3d6953ef9f95a03a38d2d2ef0e77ce648/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/pre-dexed/debug/classes_9f6803d5a5a9337ef6f146e44206bce13c1e16ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c761ab52ad586cd28270e2651ba36ba139372d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cde68dea435d007c942fa2244db315b9dbff4c6c">
+        <dex dex="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_05792d326d4568e1058d6b22e8110bfa010ebdb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/khant/.android/build-cache/3048d3d6ab9fe3f0460804c7d24fe0a251617f8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/pre-dexed/debug/classes_40219e8f7fbef0e2af197b979860b14e8d996ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/khant/.android/build-cache/63e4600da51ecec85e0bef9eb67d7f5ff0532b07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/pre-dexed/debug/classes_b0f80c95363ce9aca3584147f9aaf31107ff97b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/khant/.android/build-cache/01dfa8a81b1422ba43846368a52afd0c8e0cc634/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="184f86117c6463267c1f0deba84d4853cb165c40">
+        <dex dex="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/pre-dexed/debug/classes_8b0ce85707be6a281e141413fee6c46c0ca85542.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/khant/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/khant/Development/Android/PRACTICE/BookWithRealm/app/build/intermediates/pre-dexed/debug/gson-2.8.1_c9ee1384dea6bd7242a60543c45fc544c970b1df.jar" />
+    </item>
+
+</items>
