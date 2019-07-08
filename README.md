@@ -15,5 +15,7 @@
 ## Credit
 https://www.androidhive.info/2016/05/android-working-with-realm-database-replacing-sqlite-core-data/
 
+[![Known Vulnerabilities](https://snyk.io//test/github/khantkhantnyeinsoe/BookCRUDRealm/badge.svg?targetFile=app/build.gradle)](https://snyk.io//test/github/khantkhantnyeinsoe/BookCRUDRealm?targetFile=app/build.gradle)
+
 
 
